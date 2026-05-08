@@ -89,5 +89,6 @@ Full project documentation including business requirements, all SQL queries with
 ---
 
 ## Connect
-**Shubham Kumar Bhakta**  
-[LinkedIn](https://www.linkedin.com/in/shubhambhakta/) | [GitHub](https://github.com/analyst-shubham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambhakta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubham.kr1204@gmail.com)
+
