@@ -20,18 +20,6 @@ cc_add.csv ───────┐
 cust_add.csv ─────┘
 ```
 
----
-
-## Tools & Technologies
-| Layer | Tools |
-|---|---|
-| Database | PostgreSQL |
-| Querying | SQL — JOINs, CTEs, Window Functions, Subqueries |
-| Visualization | Power BI, DAX | 
-| Data Transformation & Automation | Power Query |
-
----
-
 ## Key Insights & Highlights
 1. **Blue Card Concentration** — Blue cardholders drive 83% of total revenue (47M/57M) despite being the entry-level tier. **Strategy recommendation**: Implement Blue cardholder loyalty programs and proactive upgrade campaigns to Silver/Gold.
 2. **Platinum Satisfaction Paradox** — Platinum holders report the lowest CSS score (2.72) despite paying premium fees; Gold (3.05) outperforms Platinum in satisfaction. **The business should audit Platinum benefits vs competitor offerings and conduct customer exit interviews.**
@@ -42,6 +30,15 @@ cust_add.csv ─────┘
 7. **High-Income Female Outspend** — Female customers in High income segment generate 3x the revenue of male counterparts.
 8. **Pipeline Validation** — Week 53 data append updated Revenue 55M→57M and Transaction Count 656K→667K automatically confirming live refresh pipeline.
 
+---
+
+## Tools & Technologies
+| Layer | Tools |
+|---|---|
+| Database | PostgreSQL |
+| Querying | SQL — JOINs, CTEs, Window Functions, Subqueries |
+| Visualization | Power BI, DAX | 
+| Data Transformation & Automation | Power Query |
 
 ---
 
