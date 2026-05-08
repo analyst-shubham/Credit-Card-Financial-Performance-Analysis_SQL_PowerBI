@@ -27,8 +27,8 @@ cust_add.csv ─────┘
 |---|---|
 | Database | PostgreSQL |
 | Querying | SQL — JOINs, CTEs, Window Functions, Subqueries |
-| Visualization | Power BI | DAX |
-| Data Transformation | Power Query |
+| Visualization | Power BI, DAX | 
+| Data Transformation & Automation | Power Query |
 
 
 ---
