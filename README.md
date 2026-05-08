@@ -56,22 +56,21 @@ cust_add.csv ─────┘
 ```
 Credit-Card-Financial-Performance-Analysis/
 │
+├── SQL/
+│   └── credit_card_analysis_queries.sql
+│
 ├── data/
 │   ├── credit_card.csv
 │   ├── customer.csv
 │   ├── cc_add.csv
 │   └── cust_add.csv
 │
-├── sql/
-│   └── credit_card_analysis.sql
-│
-├── dashboard/
-│   ├── Credit_Card_Report.pbix
-│   ├── dashboard1_preview.jpg
-│   └── dashboard2_preview.jpg
-│
 ├── docs/
-│   └── Credit_Card_Financial_Performance_Analysis_Shubham_Kumar_Bhakta.docx
+│   └── Credit_Card_Financial_Performance_Analysis_Report.docx
+│
+├── Credit-Card-Financial-Performance-Analysis.pbix
+├── dashboard1_preview.jpg
+├── dashboard2_preview.jpg
 │
 └── README.md
 ```
